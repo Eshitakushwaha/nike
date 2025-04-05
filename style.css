@@ -1,0 +1,140 @@
+header{
+    background-color: white;
+}
+
+#logo1{
+    width: 35px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+
+#head{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
+
+
+
+#header2{
+    
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+}
+
+
+
+button{
+    width: 150px;
+}
+
+/* #head1{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+
+} */
+
+
+/* #btn{ */
+    /* padding-right: 390px; */
+   
+    /* margin-right: 40px; */
+   /* padding-left: -40px;  */
+    /* border: 2px solid black;
+     border-radius: 20px;
+    background-color: antiquewhite;
+    width: 50px;
+    height: 40px;
+    justify-items: center; */
+
+
+
+#shoes{
+     padding-top: 40px; 
+    padding-left: 60px;
+    width: 690px;
+}
+
+
+#mid{
+    margin-top: 0;
+    padding-top: 20px;
+   
+}
+
+
+button{
+    border-radius: 10px;
+    height: 30px;
+    width: 60px;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+
+}
+
+
+#btn{
+    width: 160px;
+    background-color: white;
+    color: black;
+  padding-right: 10px;  
+  
+
+}
+
+
+#shoes1{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
+
+
+#shoes2{
+    display: flex;
+     justify-content: space-between;
+    justify-items: center;
+}
+
+
+
+
+#foot{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-content: center;
+    padding-left: 170px;
+    padding-right: 170px;
+}
+
+
+#foot h5{
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+#foot h6{
+    font-size: 15px;
+    color: grey;
+    cursor: pointer;
+}
+
+
+#foot1{
+    padding-left: 170px;
+    background-color: aliceblue;
+    color: grey;
+    cursor: pointer;
+    
+}
